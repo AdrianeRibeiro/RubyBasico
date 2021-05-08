@@ -1,6 +1,4 @@
-# RubyBasico
-
-# Repositório dos cursos: 
+# Cursos: 
 
 - Ruby Puro: 
 https://onebitcode.com/course/ruby-puro/
